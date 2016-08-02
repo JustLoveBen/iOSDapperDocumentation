@@ -1,2 +1,2 @@
 # iOSDapperDocumentation
-Some dapper useful iOS documents 
+Some dapper useful iOS Cocoa documents
